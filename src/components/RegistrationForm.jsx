@@ -23,7 +23,7 @@ function RegistrationForm() {
       // Show info from the form
       setFormInfo({
         fullName: form.fullName.value,
-        emailAddr: form.email.alue,
+        emailAddr: form.email.value,
         sendNotifications: form.notifications.checked
       });
 
