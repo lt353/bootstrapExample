@@ -5,3 +5,4 @@ The RegistrationForm component in RegistrationForm.js displays a user registrati
 Outputs something like this: 
 
 <img width="558" alt="Screenshot 2025-04-21 at 15 44 40" src="https://github.com/user-attachments/assets/0eb41302-bd4e-474a-bca4-09edc008087d" />
+<img width="495" alt="Screenshot 2025-04-21 at 15 46 06" src="https://github.com/user-attachments/assets/b04b57e1-dd12-480b-bcf2-51af8ccf553b" />
